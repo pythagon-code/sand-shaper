@@ -1,0 +1,7 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+numpy
+pillow
+requests
+scipy
+ursina
+torch==2.11.0+cu128

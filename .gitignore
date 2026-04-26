@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+
+.venv/
+
+__pycache__/
+
+/data/
+/assets/data/
+/exports/*
+!/exports/images/
+!/exports/images/**
+!/exports/models/
+!/exports/models/**
+
+/temp/
